@@ -17,11 +17,7 @@ import Footer1 from "../Components/Footer";
 // import Navbar from "../components/navbar";
 //  import NAV2 from "../components/nav2";
 //const { BrowserRouter, Route, Switch } = ReactRouterDOM;
-// const Home = () => <h2>You are in the Home</h2>;
-// const Blogs = () => <h2>You are in the Blogs</h2>;
-// const Projects = () => <h2>You are in the Projects</h2>;
-// const About = () => <h2>You are in the About</h2>;
-// const Contact = () => <h2>You are in the Contact</h2>;
+
 import ScrollToTop from "./ScrollToTop.jsx";
 function App() {
   return (
