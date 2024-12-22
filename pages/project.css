@@ -108,9 +108,23 @@
   .S2container {
     max-width: 1140px;
   }
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
 }
 @media screen and (max-width: 1199px) {
   /* common */
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
   .S2container {
     max-width: 960px;
   }
@@ -149,6 +163,13 @@
 }
 @media screen and (max-width: 991px) {
   /* common */
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
   .S2container {
     max-width: 720px;
   }
@@ -175,6 +196,13 @@
 }
 @media screen and (max-width: 767px) {
   /* common */
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
   .S2container {
     max-width: calc(100% - 12px);
   }
@@ -312,18 +340,29 @@ padding: 5%;
 
 @media screen and (max-width: 1399px) {
   /* common */
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
   .container {
     max-width: 1140px;
   }
 }
 @media screen and (max-width: 1199px) {
   /* common */
+
   .container {
     max-width: 960px;
   }
-  h2.title {
-    font-size: 148px;
-    top: -20px;
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
   }
   .paragraph p:first-child:first-letter {
     font-size: 22px;
@@ -363,13 +402,16 @@ padding: 5%;
   }
 }
 @media screen and (max-width: 991px) {
-  /* common */
+
   .container {
     max-width: 720px;
   }
-  h2.title {
-    font-size: 110px;
-    top: -17px;
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
   }
   p {
     font-size: 16px;
@@ -421,9 +463,12 @@ padding: 5%;
   .container {
     max-width: calc(100% - 12px);
   }
-  h2.title {
-    font-size: 52px;
-    top: -8px;
+  .projects-section .title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
   }
   p {
     margin-bottom: 16px;

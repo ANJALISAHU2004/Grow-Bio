@@ -96,7 +96,7 @@ function Midbar(params) {
               <div class="col-md-6 col-xxl-7 ms-auto">
                 <div class="banner-img" id="bannerBigimg">
                   <img
-                    src="Images\IMG-20241110-WA0051.jpg"
+                    src="Images\ProjectImages2\p1.jpg"
                     class="img-fluid"
                     alt="Image"
                   />

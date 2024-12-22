@@ -11,18 +11,7 @@ $primary-text-color:#134074;
 $secondary-text-color:#13315c;
 $details: #DEE4F1;
 
-// --light-blue-background:#8da9c4;
-// --blue-primary:
-// --blue-background:
-// --dark-blue:#0b2545;
-// --white-background:
-// --light-blue-background:#8da9c4;
 
-// body {
-//   font-family: 'Poppins', sans-serif;
-//   font-size: 10px;
-//   background: $bg-color;
-// }
 
 
 .heading {
@@ -91,10 +80,10 @@ $details: #DEE4F1;
     max-width: auto;
     }
   @media screen and (max-width:412px){
-    max-width: 17rem;
+    max-width: 15rem;
     }
     @media screen and (max-width:768px){
-      max-width: 25rem;
+      max-width: 20rem;
       }
 }
 
@@ -159,6 +148,4 @@ button:focus {
   }
 }
 
- @media screen {
-  
- }
+

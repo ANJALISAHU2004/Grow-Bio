@@ -149,7 +149,7 @@ h2.Compsec_title {
   .container {
     max-width: 960px;
   }
-  h2.title {
+  h2.Compsec_title {
     font-size: 148px;
     top: -20px;
   }
@@ -352,9 +352,12 @@ h2.Compsec_title {
   .container {
     max-width: calc(100% - 12px);
   }
-  h2.title {
-    font-size: 52px;
-    top: -8px;
+  h2.Compsec_title {
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
   }
   p {
     margin-bottom: 16px;

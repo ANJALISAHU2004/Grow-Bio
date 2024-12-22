@@ -59,7 +59,7 @@ export default function About() {
       <FAQ data={questions} />
       <Counter></Counter>
       <Partner></Partner>
-      <Services></Services>
+      {/* <Services></Services> */}
     </>
   );
 }

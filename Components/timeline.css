@@ -112,6 +112,15 @@ background:var(--light-blue-background);
     margin-top: 1.5em;
   }
 }
+@media only screen and (max-width: 1700px) {
+  .Time_title{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 7em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8da9c4;
+  }
+}
 
 /* /* .cards {
   background-color: black ;/*#eef4ed;*/

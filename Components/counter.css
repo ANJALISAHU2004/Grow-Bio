@@ -13,6 +13,7 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  justify-content: space-evenly;
   /* justify-content: center; */
   padding: 2%;
   margin-bottom: 2%;
@@ -37,3 +38,12 @@
   color: white;
   margin: 2%;
 }
+@media screen and (max-width:375px){
+  max-width: auto;
+  }
+@media screen and (max-width:412px){
+  max-width: 15rem;
+  }
+  @media screen and (max-width:768px){
+    max-width: 20rem;
+    }

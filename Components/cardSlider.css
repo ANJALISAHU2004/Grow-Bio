@@ -1,11 +1,11 @@
 @import url("https:fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@700&display=swap");
 :root{
-  --light-blue-background:#8da9c4;
+  --light-blue-background:#eef4ed;
   --blue-primary:#134074;
   --blue-background:#13315c;
   --dark-blue:#0b2545;
   --white-background:#eef4ed;
-  --light-blue-background:#8da9c4;
+  --light-blue-background:#eef4ed;
 }
 :root {
   /* Colors */
@@ -365,6 +365,13 @@ p {
   
   
   @media only screen and (max-width: 979px) {
+    .Heading_PROJECTS{
+      margin-top: 5%;
+      padding: 5%;
+      font-size: 4em;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #eef4ed;
+    }
     .ag-courses_item {
       -ms-flex-preferred-size: calc(50% - 30px);
       flex-basis: calc(50% - 30px);
@@ -378,9 +385,22 @@ p {
     .ag-format-container {
       width: 96%;
     }
-  
+    .Heading_PROJECTS{
+      margin-top: 5%;
+      padding: 5%;
+      font-size: 4em;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #eef4ed;
+    }
   }
   @media only screen and (max-width: 639px) {
+    .Heading_PROJECTS{
+      margin-top: 5%;
+      padding: 5%;
+      font-size: 4em;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #eef4ed;
+    }
     .ag-courses_item {
       -ms-flex-preferred-size: 100%;
       flex-basis: 100%;

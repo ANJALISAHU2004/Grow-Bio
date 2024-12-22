@@ -105,3 +105,18 @@ $white-background: #eef4ed;
     }
   }
 }
+
+@media screen and (max-width: 767px) {
+  .CoreValues_h2{
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 7em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #eef4ed;
+  }
+  .CoreValues_main_div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}

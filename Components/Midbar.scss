@@ -94,10 +94,25 @@ background-color:var(--blue-primary) ;
   top: 0;
   transform: translate(0, -100%);
 }
-// .img-fluid {
-//   margin-top: 50px;
-//   border-radius: 50px;
-//   max-width: 100%;
-//   height: auto;
-//   border: 2px double #eef4ed;
-// }
+@media screen and (max-width: 767px) {
+  .Midbar_banner .banner-img {
+      margin-top: 60px;
+  }
+  .animated-title {
+    color: var(--white-background);
+    font-family: Roboto, Arial, sans-serif;
+    height: 90vmin;
+    left: 20%;
+    position: absolute;
+    top: 63%;
+    transform: translate(-50%, -50%);
+    width: 90vmin;}
+    .img-fluid {
+      margin-top: -20px;
+      border-radius: 50px;
+      max-width: 100%;
+      height: auto;
+      border: none;
+      margin-left: 76px;
+  }
+}

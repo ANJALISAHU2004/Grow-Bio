@@ -1,7 +1,29 @@
-import "./Contact.css"
+import "./Contact.css";
 
-export default function Contact(params) {
-  return<>
-  <h1>Projexts</h1>
-  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, magni ipsam tenetur dolore eos, mollitia, error dolores nesciunt quia suscipit totam voluptatum aspernatur. Fugiat atque totam hic, eveniet, libero nihil, veritatis distinctio doloribus modi vitae sed temporibus alias inventore! Harum similique laborum ex adipisci illo. Sapiente nostrum repudiandae tempora molestias fuga amet, tempore autem in laboriosam quo animi, dolor dignissimos sint! Quisquam consequatur distinctio voluptas aspernatur! Commodi eaque impedit quis est quaerat autem assumenda enim a dolores. Possimus voluptates dolores temporibus voluptatum blanditiis incidunt delectus quo, odio, dolorum libero ullam veniam ab similique eius. Repellat ad dolorum sint sequi doloribus.</>
+export default function Contact() {
+  return (
+    <>
+      <h1>Projexts</h1>
+      <div>
+        <h2>how can we help?</h2>
+        <h3>sed us a message</h3>
+      </div>
+      <div style={{ color: "black" }}>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo
+          facilis similique distinctio itaque, vitae cupiditate quia eaque
+          mollitia suscipit nostrum maxime hic accusantium? In, quia accusantium
+          labore neque at dicta vitae eius excepturi rem magni minima minus,
+          pariatur quae quod debitis? Dolor officia officiis aut laudantium,
+          repellendus quaerat blanditiis hic consectetur nisi, vitae rem
+          obcaecati laborum sapiente, accusamus ratione amet dolorum nulla
+          repudiandae veniam neque nobis corporis modi ullam nihil? Obcaecati,
+          quo. Aliquam voluptatibus et saepe praesentium cum iure reprehenderit
+          modi assumenda aperiam libero consequatur, molestias amet quia! Vitae
+          quod magnam exercitationem repudiandae et accusamus perferendis
+          eveniet quaerat sunt in.
+        </p>{" "}
+      </div>
+    </>
+  );
 }

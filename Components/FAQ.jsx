@@ -58,7 +58,7 @@ const Question = (props) => {
   return (
     <div class="question-wrapper">
       <div className="question" id={props.id}>
-        <h3>{props.question}</h3>
+        <h3 onClick={() => handleClick(props.id)}>{props.question}</h3>
         <button onClick={() => handleClick(props.id)}>
           <svg
             className={isActive ? "active" : ""}

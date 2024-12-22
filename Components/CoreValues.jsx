@@ -47,7 +47,7 @@ export default function CoreValues(params) {
               Striving to exceed client expectations and build long-term
               relationships.
             </p>
-            <button>Continue</button>
+            {/* <button><a href=""></a>Continue</button> */}
           </div>
 
           <div class="card">
@@ -90,7 +90,7 @@ export default function CoreValues(params) {
               employing skilled labor, and implementing rigorous quality control
               measures.
             </p>
-            <button>Continue</button>
+            {/* <button>Continue</button> */}
           </div>
           <div class="card">
             <div class="ilustration">
@@ -132,7 +132,7 @@ export default function CoreValues(params) {
               behavior. Building trust with clients, partners, and employees
               through consistent and reliable actions.
             </p>
-            <button>Continue</button>
+            {/* <button>Continue</button> */}
           </div>
         </div>{" "}
       </div>
