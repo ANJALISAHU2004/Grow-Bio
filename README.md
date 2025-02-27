@@ -10,7 +10,7 @@ This project is built using React.js to provide a seamless and interactive user 
 
 GroWbio is dedicated to offering advanced pesticide solutions. Our team of experienced professionals is committed to delivering innovative and efficient services to meet the diverse needs of our clients.
 
-Visit our website: [Growbio](https://growbio.com/)
+Visit our website: [Growbio](https://growbio.in/)
 
 ## Features
 
@@ -80,7 +80,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Project Link: [https://growbio.com/](https://growbio.com/)
+Project Link: [https://growbio.in/](https://growbio.in/)
 
 ---
 
